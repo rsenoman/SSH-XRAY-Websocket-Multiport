@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-  Autoscript SSH XRAY Websocket Multiport Edited By @Parael1101
+  Autoscript SSH XRAY Websocket Multiport Edited By Parael1101
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
@@ -14,7 +14,7 @@
  AUTOSCRIPT WEBSOCKET MULTIPORT INI SESUAI UNTUK TRICK MERAH - KUNING - BIRU (MALAYSIA) <br>
  <br>
  1. LINK CONFIG SIAP GENERATE UNTUK TELCO MERAH - KUNING - BIRU (MALAYSIA) <br>
- 2. JIKA TERDAPAT SEBARANG BUG / GLITCH BOLEH LAPORKAN PADA SAYA DI TELEGRAM : @Vinstechmy <br>
+ 2. TELEGRAM : @Parael1101 <br>
  <br>
  
  SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTINGS) <br>
