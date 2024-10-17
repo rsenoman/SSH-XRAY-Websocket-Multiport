@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀 Autoscript SSH XRAY Websocket Multiport By Vinstechmy (FREE!)🚀
+  Autoscript SSH XRAY Websocket Multiport Edited By @Parael1101
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
@@ -48,7 +48,7 @@
 ✅ BACKUP & RESTORE <br>
 <br>
 <br>
-♦️ For Debian 10 Only For First Time Installation <br>
+♦️ For Debian 10 And Ubuntu 20.04 Only For First Time Installation <br>
 <br>
   
   ```html
@@ -58,7 +58,7 @@
 ♦️ Installation Link<br>
 
   ```html
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/SSH-XRAY-Websocket-Multiport/main/V1/setup-lite.sh && chmod +x setup-lite.sh && ./setup-lite.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/rsenoman/SSH-XRAY-Websocket-Multiport/main/V1/setup-lite.sh && chmod +x setup-lite.sh && ./setup-lite.sh
   ```
 
 </b>
